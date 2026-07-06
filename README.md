@@ -1,8 +1,8 @@
-# 🌐 Network Security Labs
+# Network Security Labs
 Hands-on Network Security labs using GNS3, Wireshark, and Kali Linux.
 
 -----
-## 📖 Overview
+## Overview
 
 This repository contains my hands-on Network Security labs completed during my MS Cybersecurity studies.
 
@@ -12,7 +12,7 @@ I created this repository to document my learning journey, organize my lab work,
 
 -----
 
-## 🎯 Objectives
+## Objectives
 
 - Document my Network Security learning journey.
 - Organize hands-on labs in one place.
@@ -22,7 +22,7 @@ I created this repository to document my learning journey, organize my lab work,
 
 -----
 
-## 🛠️ Lab Environment & Tools
+## Lab Environment & Tools
 
 ### Platforms & Operating Systems
 
@@ -36,7 +36,7 @@ I created this repository to document my learning journey, organize my lab work,
 
 -----
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 network-security-labs/
@@ -51,7 +51,7 @@ network-security-labs/
 
 ------
 
-## 📚 Lab Topics
+## Lab Topics
 
 The repository currently includes practical labs covering topics such as:
 
@@ -71,7 +71,7 @@ The repository currently includes practical labs covering topics such as:
 
   -----
 
-  ## 🎓 Learning Outcomes
+  ## Learning Outcomes
 
 After exploring these labs, readers will be able to:
 
@@ -84,7 +84,7 @@ After exploring these labs, readers will be able to:
 
   -----
 
-  ## 🚀 Future Improvements
+  ## Future Improvements
 
 This repository will continue to grow as I complete new Network Security labs and projects.
 
@@ -99,7 +99,7 @@ Future updates may include:
 
   -----
 
-  ## 🤝 Contributions
+  ## Contributions
 
 Suggestions, feedback, and recommendations are always welcome.
 
@@ -107,7 +107,7 @@ If you notice any mistakes or have ideas for improvement, feel free to open an i
 
 -----
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This repository is intended for educational and learning purposes only.
 
