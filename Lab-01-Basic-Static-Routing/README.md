@@ -85,6 +85,38 @@ After completing this lab, I learned how to:
 
   -----
 
+# 📷 Network Topology
+
+![Network Topology](topology-1.png)
+
+-----
+
+# 📷 Router Configuration
+
+## Show IP Interface Brief
+
+![Show IP Interface Brief](show-ip-interface-brief.png)
+
+## Static Route - R1
+
+![R1 Static Route](r1-static-route.png)
+
+## Static Route - R2
+
+![R2 Static Route](r2-static-route.png)
+
+-----
+
+# 📷 Connectivity Verification
+
+## PC1 → PC2
+
+![PC1 to PC2](pc1-ping-pc2.png)
+
+## PC2 → PC1
+
+![PC2 to PC1](pc2-ping-pc1.png)
+
 ##  Conclusion
 
 This lab successfully demonstrated the implementation of static routing between two separate LANs using Cisco routers in GNS3. After configuring IP addressing and static routes, end-to-end connectivity was successfully verified between both networks.
